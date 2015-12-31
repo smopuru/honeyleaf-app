@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name suriApp.controller:MainCtrl
+ * @name suriApp.controller:DashboardCtrl
  * @description
- * # MainCtrl
+ * # DashboardCtrl
  * Controller of the suriApp
  */
 angular.module('suriApp')
-  .controller('MainCtrl', function () {
+  .controller('DashboardCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
